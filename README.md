@@ -2,7 +2,7 @@
 Quick and short C practical sessions to help me learn the language
 
 
-These sessions were split into 5 practical sessions to help develop my skills along with a practice file for self-testing.
+These sessions were split into 5 practical sessions to help develop my skills along with a practice file for self-testing, each session has a range of problems that were given to solve.
 
 <hr />
 
