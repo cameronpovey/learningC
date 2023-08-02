@@ -1,8 +1,11 @@
 # learningC
 Quick and short C practical sessions to help me learn the language
 
+*Oct 2021*
 
 These sessions were split into 5 practical sessions to help develop my skills along with a practice file for self-testing, each session has a range of problems that were given to solve.
+
+*Files are explained in alphabetical order with each session so some tasks may lead on from other excerises later on in the practical*
 
 <hr />
 
@@ -16,8 +19,84 @@ These sessions were split into 5 practical sessions to help develop my skills al
 <hr />
 
 ## Practical 1
+### **Expenses**
+Design, write and compile a C program for calculating the Total Money spent within a month, The program takes in 3 variables; Food, Leisure and Clothes, with another variable for the total money spent for the output.
+
+<br />
+
+### **Population**
+> The U.S. Census Bureau projects population based on the following assumptions:
+> - One birth every 7 seconds
+> - One death every 13 seconds
+> - One new immigrant every 45 seconds
+
+Write a program to display the population for each of the next five years, assuming the current population is 312,032,486 and one year has 365 days.
+
+<br />
+
+### **Savings**
+You are encouraged to do this tasks in a group of Two or Three students.
+
+> Suppose you save $100 each month into a savings account with the annual interest rate 5%. <br />
+Thus, the monthly interest rate is 0.05/12 = 0.00417. <br />
+After the first month, the value in the account becomes 100 * (1 + 0.00417) = 100.417 <br />
+After the second month, the value in the account becomes (100 + 100.417) * (1 + 0.00417) = 201.252 <br />
+After the third month, the value in the account becomes (100 + 201.252) * (1 + 0.00417) = 302.507 <br />
+And so on...
+
+Write a program that prompts the user to enter a monthly saving amount and displays the account value after the sixth month.
+
+<br />
+
 ## Practical 2
+
+### **Electric Bill**
+Design, write and run a C program which will read input data from the keyboard which consists of 4 integers representing the previous metre reading, the present metre reading, day and month, each separated by a space/return. 
+The program will validate the input data, display the input data and display an appropriate error message for each of the conditions listed above.
+
+<br />
+
+### **Future Date**
+Write a program that prompts the user to enter an integer for today’s day of the week (Sunday is 0, Monday is 1, ..., and Saturday is 6). Also prompt the user to enter the number of days after today for a future day and display the future day of the week.
+
+<br />
+
+### **Input and output** & **Keyboard Input** & **Three Digit Sum**
+Programs used to learn how to get and return various inputs within C
+
+<br />
+
 ## Practical 3
+
+### **Customer Stats**
+A program is required to take the text file as an input file, read a set of input values from the input file at a time, calculate the number of units the customer has used over the period, classify the user as follows: <br />
+Above 1000 units – heavy user <br /> 500 – 1000 units – regular user <br /> Below 500 units – light user <br />
+The program should produce statistics for each category of users and display the statistics on the screen.
+> For example; <br />
+> - Heavy users 20 <br />
+> - Regular users 105 <br />
+> - Light users 54
+
+<br />
+
+### **Electricity Bill**
+Continuing from the [Practical 2 - Electric Bill](#electric-bill) excersize, as opposed to reading readings via a user input, a text file is used.
+
+<br />
+
+### **File Input**
+A Program used to learn how to read data from a given file into the C code.
+
+<br />
+
 ## Practical 4
+
+<br />
+
 ## Practical 5
+
+<br />
+
 ## Practice
+
+<br />
