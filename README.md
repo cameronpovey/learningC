@@ -91,12 +91,35 @@ A Program used to learn how to read data from a given file into the C code.
 
 ## Practical 4
 
+### Matching Profiles
+In a criminal investigation, DNA profiling was used to match the DNA of a suspect who has been arrested for suspicion of committing a burglary against the DNA profiling of several criminals who have been convicted of committing similar crimes. To identify a repeated offender correctly 10 particular gene chromosomes of the suspect’s DNA profile were chosen which must exactly match for the corresponding ones of a convicted criminal.
+
+<br />
+
+### Matching Profiles 2
+Instead of using a one-dimensional array to represent a criminal as in Part 2, we want to use a two-dimensional array to represent 3 criminals and match each of the criminals with the suspect using two nested loops.
+
+<br />
+
+### Repeated Offenders
+In a criminal investigation, DNA profiling was used to match the DNA of a suspect who has been arrested for suspicion of committing a burglary against the DNA profiling of several criminals who have been convicted of committing similar crimes and therefore identified as a repeated offender. To identify a repeated offender correctly 10 particular gene chromosomes of the suspect’s DNA profile were chosen which must exactly match for the corresponding ones of a convicted criminal.
+
 <br />
 
 ## Practical 5
 
+### Calculating Mortage A & B
+This program solves the problem in a sequential way using the main function only, i.e. take as input two salaries, select the larger and smaller salaries, calculate the mortgage and display the mortgage.
+
+<br />
+
+### Repeated Offender
+This programs takes input from the input file, matches the DNA profile of the suspect with each of the convicted criminals, and displays a report listing the reference number of the DNA profile which matches the DNA profile of the suspect who therefore is identified as a repeated offender.
+
 <br />
 
 ## Practice
+
+To practice my skills with C I created a very simple rock, paper, scissors game to test out my ability
 
 <br />
